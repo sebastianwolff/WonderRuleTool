@@ -1,2 +1,2 @@
 # WonderRuleTool
-A simple and expandable Service for recurring Jobs. Made with Clean Architecture principles
+A simple, configurable and expandable Service for recurring background Jobs. Made with Clean Architecture principles and .NET 5.0
